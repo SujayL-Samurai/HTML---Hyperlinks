@@ -1,0 +1,38 @@
+Hyperlink = is a digital reference to data that the user can follow or be guided by clicking or tapping.
+
+* <a> = means anchor	
+* < a href= " "> = href attribute is a hyperlink reference where we can link
+* target = blank opens in new tab
+* title = gives a note on the link once you hover the mouse arrow
+* mailto = to send emails
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first website</title>
+    </head>
+    <body>
+
+    <a href="https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjZvdXu1NSAAxUKb2wGHRo6BKMQPAgI"
+    target="_blank"
+    title="opens google">
+    click me
+    </a>    
+
+    <br>
+
+    <a href="lyrics.html
+    "target="_blank"
+    title="opens Collide song lyrics">
+     lyrics song   
+
+    </a>
+
+    <br>
+
+    <a href="mailto:test@fake.com">
+    email me   
+    </a>
+
+    </body>
+</html>
